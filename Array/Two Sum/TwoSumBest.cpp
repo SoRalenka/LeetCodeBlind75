@@ -1,4 +1,6 @@
 //the complexity of this code is O(n) and the space is O(n) as well
+// to run the code g++ TwoSumBest.cpp -o TwoSumBest.exe
+//.\TwoSumBest.exe                    
 #include <bits/stdc++.h>
 using namespace std;
 
